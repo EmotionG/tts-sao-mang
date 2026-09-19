@@ -1,13 +1,13 @@
-name = "tts-voice-magic"
+name = 'tts-sao-mang'
 main = "index.js"
 compatibility_date = "2024-01-15"
 compatibility_flags = ["nodejs_compat"]
 
 [env.production]
-name = "tts-voice-magic"
+name = 'tts-sao-mang'
 
 [env.staging]
-name = "tts-voice-magic-staging"
+name = "tts-sao-mang-staging"
 
 # 变量配置（如果需要的话）
 [vars]
